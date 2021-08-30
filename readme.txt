@@ -4,11 +4,11 @@ FIRST Download
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"Online_Learning_Management_System"
+3"TestWebApp"
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "Online_Learning_Management_System" folder
+5. Extract the file and copy "TestWebApp" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
