@@ -1,10 +1,10 @@
 FIRST Download
 
-1.XAMPP
+1.XAMPP and git clone 
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"TestWebApp"
+3 Open `"TestWebApp"`
 
 4. Download the zip file/ download winrar
 
